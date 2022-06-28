@@ -1,0 +1,1 @@
+// Exemplos de declarações e tipagem. ex: const, var, let; imutavel e mutavel
