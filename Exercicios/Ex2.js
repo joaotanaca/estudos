@@ -1,6 +1,6 @@
 const generateValuesArray = require("../helpers");
 
-// 2 – Faça um programa que entre com cinco números e imprima o quadrado de cada número.
+// 2 – imprima o quadrado de cada número do array.
 const numeros = generateValuesArray({ maxValue: 100 });
 
 console.table(numeros);
