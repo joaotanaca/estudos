@@ -1,4 +1,4 @@
-const generateValuesArray = require("../helpers").generateValues;
+const generateValuesArray = require("../helpers");
 
 // 1 – Calcule a média de diversas notas pelo usuário.
 const notas = generateValuesArray({ length: 10 });
